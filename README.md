@@ -14,7 +14,7 @@ REWC undertakes new-build, extension and renovation projects for government, sem
 
 ## Root cause analysis
 
-Interviews with the site engineer, finance manager and procurement executive identified three associated problems - idle inventory, overdue receivables, and early payment to suppliers — and seven underlying root causes, mapped in a fishbone diagram:
+Interviews with the site engineer, finance manager and procurement executive identified three associated problems - idle inventory, overdue receivables, and early payment to suppliers and seven underlying root causes, mapped in a fishbone diagram:
 
 <p align="center">
   <img src="images/04-root-cause-analysis.png" width="700" alt="Fishbone root cause analysis diagram for high Cash Conversion Cycle">
@@ -39,9 +39,9 @@ Five years of company data (FY2017/18–2021/22) against company benchmarks and 
 
 Solutions were developed for each of the three project components, each addressing a specific root cause identified above:
 
-- **Inventory management** — a formal inventory planning and monitoring process, a daily project report format, and a store policy to close the gap between purchasing and actual site demand.
-- **Receivables management** — a documented receivable policy, a training needs plan for quantity surveyors (to reduce invoice errors that delay client payment), and a quality plan to cut disputes and rework.
-- **Payables management** — a redesigned supplier evaluation process and criteria, and supplier relationship management guidelines, so REWC isn't defaulting to short-credit suppliers.
+- **Inventory management** - a formal inventory planning and monitoring process, a daily project report format, and a store policy to close the gap between purchasing and actual site demand.
+- **Receivables management** - a documented receivable policy, a training needs plan for quantity surveyors (to reduce invoice errors that delay client payment), and a quality plan to cut disputes and rework.
+- **Payables management** - a redesigned supplier evaluation process and criteria, and supplier relationship management guidelines, so REWC isn't defaulting to short-credit suppliers.
 
 ## Projected impact
 
@@ -71,8 +71,8 @@ If implemented, the project targets reducing the CCC from 140 days to 87 days wi
 
 ## Repository contents
 
-- [`REWC-full-report.pdf`](REWC-full-report.pdf) — the complete 90-page report, including literature review, full methodology, proposed process redesigns (inventory, invoicing, supplier evaluation), and all annexures
-- `images/` — charts and figures referenced above
+- [`REWC-full-report.pdf`](REWC-full-report.pdf) - the complete 90-page report, including literature review, full methodology, proposed process redesigns (inventory, invoicing, supplier evaluation), and all annexures
+- `images/` - charts and figures referenced above
 
 ---
 *Author: J. L. Weerakoon. Report submitted to the Postgraduate Institute of Management, University of Sri Jayewardenepura, in partial fulfilment of the MBA degree, 2023.*
