@@ -35,12 +35,6 @@ Five years of company data (FY2017/18–2021/22) against company benchmarks and 
 | Overdue receivables (% of closing receivables) | 38% | 20% (company target) | 47% |
 | Early payment to suppliers (% of closing payables) | 41% | 10% (company target) | 76% |
 
-Idle inventory in particular is a physical, visible problem at the construction site stores — materials purchased well ahead of need sit unused for months:
-
-<p align="center">
-  <img src="images/05-idle-inventory-photo.png" width="500" alt="Photo of idle construction inventory at the REWC warehouse">
-</p>
-
 ## Proposed solutions
 
 Solutions were developed for each of the three project components, each addressing a specific root cause identified above:
