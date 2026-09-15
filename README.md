@@ -10,7 +10,7 @@ REWC undertakes new-build, extension and renovation projects for government, sem
   <img src="images/03-revenue-by-project-type.png" width="380" alt="Revenue contribution by project type: 57% renovation, 34% new building, 8% extension">
 </p>
 
-**Renovation projects at REWC have a Cash Conversion Cycle (CCC) of 140 days — 38% higher than the 87-day industry benchmark** (Access Engineering PLC, used as a comparable given limited public reporting from construction peers). That gap ties up cash that should be funding operations, and it has been persistent for five straight years.
+**Renovation projects at REWC have a Cash Conversion Cycle (CCC) of 140 days - 38% higher than the 87-day industry benchmark** (Access Engineering PLC, used as a comparable given limited public reporting from construction peers). That gap ties up cash that should be funding operations, and it has been persistent for five straight years.
 
 ## Root cause analysis
 
