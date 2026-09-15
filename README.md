@@ -1,10 +1,10 @@
-# Reducing Cash Conversion Cycle in Renovation Projects — R.E. Weerakoon Constructions (Pvt) Ltd.
+# Reducing Cash Conversion Cycle in Renovation Projects - R.E. Weerakoon Constructions (Pvt) Ltd.
 
 Management Field Research Project completed as part of the **Master of Business Administration, Postgraduate Institute of Management (PIM), University of Sri Jayewardenepura**. Unlike the virtual-experience case studies elsewhere in this portfolio, this was a real engagement: field interviews, company financial data and process analysis conducted directly with R.E. Weerakoon Constructions (REWC), a Sri Lankan construction SME, over 2022–2023. The full 90-page report is included in this repo; this README summarises the analysis, findings and recommended solutions.
 
 ## The problem
 
-REWC undertakes new-build, extension and renovation projects for government, semi-government and private clients. Renovation projects are the smallest in scope but the largest revenue driver — and the most cash-constrained.
+REWC undertakes new-build, extension and renovation projects for government, semi-government and private clients. Renovation projects are the smallest in scope but the largest revenue driver and the most cash-constrained.
 
 <p align="center">
   <img src="images/03-revenue-by-project-type.png" width="380" alt="Revenue contribution by project type: 57% renovation, 34% new building, 8% extension">
@@ -14,7 +14,7 @@ REWC undertakes new-build, extension and renovation projects for government, sem
 
 ## Root cause analysis
 
-Interviews with the site engineer, finance manager and procurement executive identified three associated problems — idle inventory, overdue receivables, and early payment to suppliers — and seven underlying root causes, mapped in a fishbone diagram:
+Interviews with the site engineer, finance manager and procurement executive identified three associated problems - idle inventory, overdue receivables, and early payment to suppliers — and seven underlying root causes, mapped in a fishbone diagram:
 
 <p align="center">
   <img src="images/04-root-cause-analysis.png" width="700" alt="Fishbone root cause analysis diagram for high Cash Conversion Cycle">
@@ -65,7 +65,7 @@ Solutions were developed for each of the three project components, each addressi
 | **Net incremental benefit** | **4,211,213** |
 | **Benefit/cost ratio** | **12.1 : 1** |
 
-If implemented, the project targets reducing the CCC from 140 days to 87 days within 12 months — closing the industry gap entirely — alongside a 90% cut in idle inventory, a 47% cut in overdue receivables, and a 76% cut in early supplier payment.
+If implemented, the project targets reducing the CCC from 140 days to 87 days within 12 months - closing the industry gap entirely - alongside a 90% cut in idle inventory, a 47% cut in overdue receivables, and a 76% cut in early supplier payment.
 
 ## Methodology
 
