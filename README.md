@@ -1,4 +1,4 @@
-# Reducing Cash Conversion Cycle in Renovation Projects - R.E. Weerakoon Constructions (Pvt) Ltd.
+# Reducing Cash Conversion Cycle in Renovation Projects - R.E.W. Constructions (Pvt) Ltd.
 
 Management Field Research Project completed as part of the **Master of Business Administration, Postgraduate Institute of Management (PIM), University of Sri Jayewardenepura**. Unlike the virtual-experience case studies elsewhere in this portfolio, this was a real engagement: field interviews, company financial data and process analysis conducted directly with R.E. Weerakoon Constructions (REWC), a Sri Lankan construction SME, over 2022–2023. The full 90-page report is included in this repo; this README summarises the analysis, findings and recommended solutions.
 
